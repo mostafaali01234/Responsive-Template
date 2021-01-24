@@ -123,13 +123,13 @@
     background-size: cover;
 }
 .slider .carousel-one{
-    background-image: url(../img/banner.jpg);
+    background-image: url(img/banner.jpg);
 }
 .slider .carousel-two{
-    background-image: url(../img/banner1.jpg);
+    background-image: url(img/banner1.jpg);
 }
 .slider .carousel-three{
-    background-image: url(../img/banner2.jpg);
+    background-image: url(img/banner2.jpg);
 } */
 
 .slider .carousel-indicators li{
@@ -440,7 +440,7 @@
 /* ------------------------------ Testimonials ------------------------------- */
 .testimonials{
     background-size: cover;
-    background-image: url('/img/testimonial-bg.jpg');
+    background-image: url("../img/testimonial-bg.jpg");
     /* height: 542px; */
     position: relative;
     /* margin-bottom: 80px; */
